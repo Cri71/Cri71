@@ -33,7 +33,7 @@ Currently working part-time as an IC Design & Verification Engineer at AMD, with
 
 ## 📈 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cri71&theme=tokyonight)
+https://github-readme-stats-sigma-five.vercel.app/api
 
 ## 🌐 Elsewhere
 
