@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Christian
 
-I'm currently working as a IC D&V engieer at AMD.
+Currently working part-time as an IC Design & Verification Engineer at AMD, with a full-time role starting next year.
 
 ## 🧠 About Me
 
@@ -33,7 +33,7 @@ I'm currently working as a IC D&V engieer at AMD.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cri71&show_icons=true&theme=tokyonight)
 
 ## 🌐 Elsewhere
 
